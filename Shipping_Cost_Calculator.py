@@ -1,4 +1,3 @@
-# Here is another update by Gzx-070829
 # Here is a new update by Gzx-070829
 # Shipping Cost Calculator
 
